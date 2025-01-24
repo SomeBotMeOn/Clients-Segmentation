@@ -138,7 +138,7 @@
 - Optuna
 
 ### Метрики и оценка моделей:
-- balanced_accuracy_score
+- **balanced_accuracy_score - основная метрика**
 - confusion_matrix
 - permutation_importance
 - accuracy_score
